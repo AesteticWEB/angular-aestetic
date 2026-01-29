@@ -1,0 +1,99 @@
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:31:
+[37m      35 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:63:
+[37m      35 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:31:
+[37m      35 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:63:
+[37m      35 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:31:
+[37m      35 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:63:
+[37m      35 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:31:
+[37m      35 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:35:63:
+[37m      35 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:36:31:
+[37m      36 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:36:63:
+[37m      36 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:36:31:
+[37m      36 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:36:63:
+[37m      36 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:36:31:
+[37m      36 │ ... const delay = el.dataset.[32mrevealDelay[37m ? Number(el.dataset.revea...
+         ╵                              [32m~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS4111: Property 'revealDelay' comes from an index signature, so it must be accessed with ['revealDelay'].[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.ts:36:63:
+[37m      36 │ ...dataset.revealDelay ? Number(el.dataset.[32mrevealDelay[37m) : index * 60;
+         ╵                                            [32m~~~~~~~~~~~[0m
+
+[39m[22m
+^C
