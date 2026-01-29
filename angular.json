@@ -56,6 +56,8 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/angular-aestetic/",
+              "inlineFonts": false,
               "budgets": [
                 {
                   "type": "initial",
