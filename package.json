@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "build:gh": "ng build --configuration production",
+    "deploy": "npm run build:gh && npx angular-cli-ghpages --dir=dist/angular-aestetic/browser"
   },
   "prettier": {
     "printWidth": 100,
