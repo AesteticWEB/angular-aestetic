@@ -56,7 +56,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "/angular-aestetic/",
+              "baseHref": "/AesteticPortfolio/",
               "budgets": [
                 {
                   "type": "initial",
